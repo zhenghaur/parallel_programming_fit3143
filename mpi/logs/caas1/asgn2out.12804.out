@@ -1,0 +1,345 @@
+
+
+ITERATION: 1 
+
+[GRID 0] currently have 1 availability(s).
+[GRID 3] currently have 0 availability(s).
+[GRID 3] CURRENTLY LOW ||| nearest available node: 7.
+[GRID 11] currently have 0 availability(s).
+[GRID 11] CURRENTLY LOW ||| nearest available node: 7.
+[GRID 9] currently have 1 availability(s).
+[GRID 7] currently have 1 availability(s).
+[GRID 5] currently have 2 availability(s).
+[GRID 13] currently have 2 availability(s).
+[GRID 15] currently have 1 availability(s).
+[GRID 2] currently have 0 availability(s).
+[GRID 2] CURRENTLY LOW ||| nearest available node: 1.
+[GRID 8] currently have 1 availability(s).
+[GRID 1] currently have 2 availability(s).
+[GRID 4] currently have 1 availability(s).
+[GRID 10] currently have 1 availability(s).
+[GRID 6] currently have 1 availability(s).
+[GRID 14] currently have 2 availability(s).
+[GRID 12] currently have 3 availability(s).
+
+
+ITERATION: 2 
+
+[GRID 0] currently have 1 availability(s).
+[GRID 5] currently have 0 availability(s).
+[GRID 5] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 13] currently have 0 availability(s).
+[GRID 13] CURRENTLY LOW ||| nearest available node: 14.
+[GRID 15] currently have 0 availability(s).
+[GRID 15] CURRENTLY LOW ||| nearest available node: 14.
+[GRID 3] currently have 0 availability(s).
+[GRID 3] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 6] currently have 0 availability(s).
+[GRID 6] CURRENTLY LOW ||| nearest available node: 10.
+[GRID 14] currently have 1 availability(s).
+[GRID 4] currently have 0 availability(s).
+[GRID 4] CURRENTLY LOW ||| nearest available node: 0.
+[GRID 7] currently have 0 availability(s).
+[GRID 7] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 9] currently have 0 availability(s).
+[GRID 9] CURRENTLY LOW ||| nearest available node: 10.
+[GRID 8] currently have 0 availability(s).
+[GRID 8] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 10] currently have 1 availability(s).
+[GRID 1] currently have 0 availability(s).
+[GRID 1] CURRENTLY LOW ||| nearest available node: 0.
+[GRID 2] currently have 0 availability(s).
+[GRID 2] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 11] currently have 0 availability(s).
+[GRID 11] CURRENTLY LOW ||| nearest available node: 10.
+[GRID 12] currently have 0 availability(s).
+[GRID 12] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 3] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 2] CURRENTLY LOW ||| nearest available node (neighbor of neighbor): 10.
+[GRID 12] CURRENTLY LOW ||| nearest available node (neighbor of neighbor): 14.
+[GRID 7] CURRENTLY LOW ||| nearest available node (neighbor of neighbor): 15.
+[GRID 8] CURRENTLY LOW ||| nearest available node (neighbor of neighbor): 0.
+[GRID 5] CURRENTLY LOW ||| nearest available node (neighbor of neighbor): 0.
+
+
+ITERATION: 3 
+
+[GRID 0] currently have 0 availability(s).
+[GRID 0] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 3] currently have 0 availability(s).
+[GRID 3] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 9] currently have 0 availability(s).
+[GRID 9] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 7] currently have 0 availability(s).
+[GRID 7] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 5] currently have 0 availability(s).
+[GRID 5] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 13] currently have 0 availability(s).
+[GRID 13] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 15] currently have 0 availability(s).
+[GRID 15] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 1] currently have 0 availability(s).
+[GRID 1] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 4] currently have 0 availability(s).
+[GRID 4] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 10] currently have 0 availability(s).
+[GRID 10] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 8] currently have 0 availability(s).
+[GRID 8] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 6] currently have 0 availability(s).
+[GRID 6] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 14] currently have 0 availability(s).
+[GRID 14] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 2] currently have 0 availability(s).
+[GRID 2] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 11] currently have 0 availability(s).
+[GRID 11] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 12] currently have 0 availability(s).
+[GRID 12] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 0] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 6] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 1] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 3] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 7] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 4] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 9] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 5] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 2] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 8] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 10] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 13] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 15] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 11] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 12] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 14] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+
+
+ITERATION: 4 
+
+[GRID 0] currently have 1 availability(s).
+[GRID 15] currently have 0 availability(s).
+[GRID 15] CURRENTLY LOW ||| nearest available node: 11.
+[GRID 3] currently have 1 availability(s).
+[GRID 5] currently have 1 availability(s).
+[GRID 13] currently have 1 availability(s).
+[GRID 4] currently have 1 availability(s).
+[GRID 6] currently have 3 availability(s).
+[GRID 14] currently have 0 availability(s).
+[GRID 14] CURRENTLY LOW ||| nearest available node: 10.
+[GRID 7] currently have 1 availability(s).
+[GRID 9] currently have 0 availability(s).
+[GRID 9] CURRENTLY LOW ||| nearest available node: 5.
+[GRID 1] currently have 2 availability(s).
+[GRID 10] currently have 1 availability(s).
+[GRID 8] currently have 1 availability(s).
+[GRID 2] currently have 3 availability(s).
+[GRID 11] currently have 1 availability(s).
+[GRID 12] currently have 0 availability(s).
+[GRID 12] CURRENTLY LOW ||| nearest available node: 8.
+
+
+ITERATION: 5 
+
+[GRID 0] currently have 1 availability(s).
+[GRID 15] currently have 0 availability(s).
+[GRID 15] CURRENTLY LOW ||| nearest available node: 14.
+[GRID 13] currently have 1 availability(s).
+[GRID 3] currently have 0 availability(s).
+[GRID 3] CURRENTLY LOW ||| nearest available node: 7.
+[GRID 5] currently have 2 availability(s).
+[GRID 4] currently have 2 availability(s).
+[GRID 14] currently have 1 availability(s).
+[GRID 6] currently have 1 availability(s).
+[GRID 7] currently have 1 availability(s).
+[GRID 9] currently have 0 availability(s).
+[GRID 9] CURRENTLY LOW ||| nearest available node: 5.
+[GRID 8] currently have 0 availability(s).
+[GRID 8] CURRENTLY LOW ||| nearest available node: 4.
+[GRID 10] currently have 0 availability(s).
+[GRID 10] CURRENTLY LOW ||| nearest available node: 6.
+[GRID 1] currently have 2 availability(s).
+[GRID 2] currently have 1 availability(s).
+[GRID 11] currently have 0 availability(s).
+[GRID 11] CURRENTLY LOW ||| nearest available node: 7.
+[GRID 12] currently have 1 availability(s).
+
+
+ITERATION: 6 
+
+[GRID 0] currently have 0 availability(s).
+[GRID 0] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 3] currently have 0 availability(s).
+[GRID 3] CURRENTLY LOW ||| nearest available node: 7.
+[GRID 9] currently have 0 availability(s).
+[GRID 9] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 7] currently have 1 availability(s).
+[GRID 5] currently have 0 availability(s).
+[GRID 5] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 13] currently have 0 availability(s).
+[GRID 13] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 15] currently have 0 availability(s).
+[GRID 15] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 1] currently have 0 availability(s).
+[GRID 1] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 4] currently have 0 availability(s).
+[GRID 4] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 10] currently have 0 availability(s).
+[GRID 10] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 8] currently have 0 availability(s).
+[GRID 8] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 6] currently have 0 availability(s).
+[GRID 6] CURRENTLY LOW ||| nearest available node: 7.
+[GRID 14] currently have 0 availability(s).
+[GRID 14] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 2] currently have 0 availability(s).
+[GRID 2] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 11] currently have 0 availability(s).
+[GRID 11] CURRENTLY LOW ||| nearest available node: 7.
+[GRID 12] currently have 0 availability(s).
+[GRID 12] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 0] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 4] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 1] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 12] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 2] CURRENTLY LOW ||| nearest available node (neighbor of neighbor): 7.
+[GRID 5] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 8] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 9] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 10] CURRENTLY LOW ||| nearest available node (neighbor of neighbor): 7.
+[GRID 15] CURRENTLY LOW ||| nearest available node (neighbor of neighbor): 7.
+[GRID 13] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 14] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+
+
+ITERATION: 7 
+
+[GRID 0] currently have 2 availability(s).
+[GRID 15] currently have 1 availability(s).
+[GRID 13] currently have 0 availability(s).
+[GRID 13] CURRENTLY LOW ||| nearest available node: 12.
+[GRID 3] currently have 0 availability(s).
+[GRID 3] CURRENTLY LOW ||| nearest available node: 7.
+[GRID 5] currently have 0 availability(s).
+[GRID 5] CURRENTLY LOW ||| nearest available node: 9.
+[GRID 6] currently have 0 availability(s).
+[GRID 6] CURRENTLY LOW ||| nearest available node: 7.
+[GRID 14] currently have 0 availability(s).
+[GRID 14] CURRENTLY LOW ||| nearest available node: 10.
+[GRID 4] currently have 1 availability(s).
+[GRID 7] currently have 3 availability(s).
+[GRID 9] currently have 1 availability(s).
+[GRID 10] currently have 1 availability(s).
+[GRID 8] currently have 1 availability(s).
+[GRID 1] currently have 0 availability(s).
+[GRID 1] CURRENTLY LOW ||| nearest available node: 0.
+[GRID 2] currently have 1 availability(s).
+[GRID 11] currently have 0 availability(s).
+[GRID 11] CURRENTLY LOW ||| nearest available node: 7.
+[GRID 12] currently have 2 availability(s).
+
+
+ITERATION: 8 
+
+[GRID 0] currently have 1 availability(s).
+[GRID 15] currently have 1 availability(s).
+[GRID 13] currently have 0 availability(s).
+[GRID 13] CURRENTLY LOW ||| nearest available node: 12.
+[GRID 5] currently have 1 availability(s).
+[GRID 6] currently have 0 availability(s).
+[GRID 6] CURRENTLY LOW ||| nearest available node: 7.
+[GRID 14] currently have 0 availability(s).
+[GRID 14] CURRENTLY LOW ||| nearest available node: 15.
+[GRID 3] currently have 0 availability(s).
+[GRID 3] CURRENTLY LOW ||| nearest available node: 7.
+[GRID 4] currently have 0 availability(s).
+[GRID 4] CURRENTLY LOW ||| nearest available node: 0.
+[GRID 7] currently have 2 availability(s).
+[GRID 9] currently have 0 availability(s).
+[GRID 9] CURRENTLY LOW ||| nearest available node: 5.
+[GRID 10] currently have 0 availability(s).
+[GRID 10] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 8] currently have 1 availability(s).
+[GRID 1] currently have 0 availability(s).
+[GRID 1] CURRENTLY LOW ||| nearest available node: 5.
+[GRID 2] currently have 1 availability(s).
+[GRID 11] currently have 0 availability(s).
+[GRID 11] CURRENTLY LOW ||| nearest available node: 7.
+[GRID 12] currently have 1 availability(s).
+[GRID 10] CURRENTLY LOW ||| nearest available node (neighbor of neighbor): 2.
+
+
+ITERATION: 9 
+
+[GRID 0] currently have 0 availability(s).
+[GRID 0] CURRENTLY LOW ||| nearest available node: 4.
+[GRID 15] currently have 0 availability(s).
+[GRID 15] CURRENTLY LOW ||| nearest available node: 14.
+[GRID 5] currently have 1 availability(s).
+[GRID 13] currently have 0 availability(s).
+[GRID 13] CURRENTLY LOW ||| nearest available node: 12.
+[GRID 6] currently have 0 availability(s).
+[GRID 6] CURRENTLY LOW ||| nearest available node: 2.
+[GRID 3] currently have 0 availability(s).
+[GRID 3] CURRENTLY LOW ||| nearest available node: 7.
+[GRID 4] currently have 1 availability(s).
+[GRID 14] currently have 1 availability(s).
+[GRID 7] currently have 1 availability(s).
+[GRID 9] currently have 0 availability(s).
+[GRID 9] CURRENTLY LOW ||| nearest available node: 5.
+[GRID 8] currently have 1 availability(s).
+[GRID 10] currently have 1 availability(s).
+[GRID 1] currently have 0 availability(s).
+[GRID 1] CURRENTLY LOW ||| nearest available node: 5.
+[GRID 2] currently have 1 availability(s).
+[GRID 11] currently have 0 availability(s).
+[GRID 11] CURRENTLY LOW ||| nearest available node: 7.
+[GRID 12] currently have 1 availability(s).
+
+
+ITERATION: 10 
+
+[GRID 0] currently have 1 availability(s).
+[GRID 13] currently have 2 availability(s).
+[GRID 15] currently have 0 availability(s).
+[GRID 15] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 5] currently have 1 availability(s).
+[GRID 3] currently have 0 availability(s).
+[GRID 3] CURRENTLY LOW ||| nearest available node: 7.
+[GRID 6] currently have 0 availability(s).
+[GRID 6] CURRENTLY LOW ||| nearest available node: 2.
+[GRID 14] currently have 0 availability(s).
+[GRID 14] CURRENTLY LOW ||| nearest available node: 13.
+[GRID 4] currently have 0 availability(s).
+[GRID 4] CURRENTLY LOW ||| nearest available node: 0.
+[GRID 7] currently have 1 availability(s).
+[GRID 9] currently have 0 availability(s).
+[GRID 9] CURRENTLY LOW ||| nearest available node: 13.
+[GRID 8] currently have 0 availability(s).
+[GRID 8] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 10] currently have 1 availability(s).
+[GRID 1] currently have 0 availability(s).
+[GRID 1] CURRENTLY LOW ||| nearest available node: 5.
+[GRID 2] currently have 1 availability(s).
+[GRID 11] currently have 0 availability(s).
+[GRID 11] CURRENTLY LOW ||| nearest available node: 7.
+[GRID 12] currently have 0 availability(s).
+[GRID 12] CURRENTLY LOW ||| nearest available node: 13.
+[GRID 8] CURRENTLY LOW ||| nearest available node (neighbor of neighbor): 0.
+[GRID 15] CURRENTLY LOW ||| nearest available node (neighbor of neighbor): 7.
+[BASE] TERMINATE
+[GRID 0] TERMINATE
+[GRID 3] TERMINATE
+[GRID 11] TERMINATE
+[GRID 8] TERMINATE
+[GRID 15] TERMINATE
+[GRID 12] TERMINATE
+[GRID 4] TERMINATE
+[GRID 5] TERMINATE
+[GRID 9] TERMINATE
+[GRID 1] TERMINATE
+[GRID 7] TERMINATE
+[GRID 6] TERMINATE
+[GRID 13] TERMINATE
+[GRID 2] TERMINATE
+[GRID 10] TERMINATE
+[GRID 14] TERMINATE

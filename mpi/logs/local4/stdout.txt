@@ -1,0 +1,158 @@
+$ run_asgn2
+Specify the simulation EV charging nodes grid size M * N (e.g. 4 3): 2 3
+
+
+ITERATION: 1 
+
+[GRID 5] currently have 1 availability(s).
+[GRID 3] currently have 2 availability(s).
+[GRID 2] currently have 2 availability(s).
+[GRID 4] currently have 1 availability(s).
+[GRID 0] currently have 0 availability(s).
+[GRID 0] CURRENTLY LOW ||| nearest available node: 1.
+[GRID 1] currently have 3 availability(s).
+
+
+ITERATION: 2 
+
+[GRID 4] currently have 1 availability(s).
+[GRID 0] currently have 0 availability(s).
+[GRID 0] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 3] currently have 0 availability(s).
+[GRID 3] CURRENTLY LOW ||| nearest available node: 4.
+[GRID 5] currently have 1 availability(s).
+[GRID 2] currently have 1 availability(s).
+[GRID 1] currently have 0 availability(s).
+[GRID 1] CURRENTLY LOW ||| nearest available node: 4.
+[GRID 0] CURRENTLY LOW ||| nearest available node (neighbor of neighbor): 4.
+
+
+ITERATION: 3 
+
+[GRID 0] currently have 0 availability(s).
+[GRID 0] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 4] currently have 0 availability(s).
+[GRID 3] currently have 0 availability(s).
+[GRID 3] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 5] currently have 0 availability(s).
+[GRID 5] CURRENTLY LOW ||| nearest available node: 2.
+[GRID 4] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 2] currently have 1 availability(s).
+[GRID 1] currently have 0 availability(s).
+[GRID 1] CURRENTLY LOW ||| nearest available node: 2.
+[GRID 3] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 4] CURRENTLY LOW ||| nearest available node (neighbor of neighbor): 2.
+[GRID 0] CURRENTLY LOW ||| nearest available node (neighbor of neighbor): 2.
+
+
+ITERATION: 4 
+
+[GRID 0] currently have 3 availability(s).
+[GRID 5] currently have 1 availability(s).
+[GRID 2] currently have 0 availability(s).
+[GRID 2] CURRENTLY LOW ||| nearest available node: 5.
+[GRID 3] currently have 2 availability(s).
+[GRID 4] currently have 0 availability(s).
+[GRID 4] CURRENTLY LOW ||| nearest available node: 3.
+[GRID 1] currently have 0 availability(s).
+[GRID 1] CURRENTLY LOW ||| nearest available node: 0.
+
+
+ITERATION: 5 
+
+[GRID 2] currently have 0 availability(s).
+[GRID 2] CURRENTLY LOW ||| nearest available node: 5.
+[GRID 3] currently have 0 availability(s).
+[GRID 3] CURRENTLY LOW ||| nearest available node: 0.
+[GRID 5] currently have 1 availability(s).
+[GRID 0] currently have 1 availability(s).
+[GRID 1] currently have 1 availability(s).
+[GRID 4] currently have 0 availability(s).
+[GRID 4] CURRENTLY LOW ||| nearest available node: 1.
+
+
+ITERATION: 6 
+
+[GRID 5] currently have 1 availability(s).
+[GRID 1] currently have 0 availability(s).
+[GRID 0] currently have 0 availability(s).
+[GRID 0] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 2] currently have 0 availability(s).
+[GRID 2] CURRENTLY LOW ||| nearest available node: 5.
+[GRID 3] currently have 0 availability(s).
+[GRID 3] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 1] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 4] currently have 0 availability(s).
+[GRID 4] CURRENTLY LOW ||| nearest available node: 5.
+[GRID 1] CURRENTLY LOW ||| nearest available node (neighbor of neighbor): 5.
+[GRID 3] CURRENTLY LOW ||| nearest available node (neighbor of neighbor): 5.
+[GRID 0] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+
+
+ITERATION: 7 
+
+[GRID 3] currently have 0 availability(s).
+[GRID 3] CURRENTLY LOW ||| nearest available node: 0.
+[GRID 2] currently have 0 availability(s).
+[GRID 2] CURRENTLY LOW ||| nearest available node: 5.
+[GRID 5] currently have 1 availability(s).
+[GRID 1] currently have 1 availability(s).
+[GRID 0] currently have 2 availability(s).
+[GRID 4] currently have 0 availability(s).
+[GRID 4] CURRENTLY LOW ||| nearest available node: 1.
+
+
+ITERATION: 8 
+
+[GRID 4] currently have 0 availability(s).
+[GRID 4] CURRENTLY LOW ||| nearest available node: 1.
+[GRID 2] currently have 1 availability(s).
+[GRID 1] currently have 2 availability(s).
+[GRID 0] currently have 1 availability(s).
+[GRID 5] currently have 0 availability(s).
+[GRID 5] CURRENTLY LOW ||| nearest available node: 2.
+[GRID 3] currently have 1 availability(s).
+
+
+ITERATION: 9 
+
+[GRID 1] currently have 0 availability(s).
+[GRID 1] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 4] currently have 0 availability(s).
+[GRID 4] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 2] currently have 0 availability(s).
+[GRID 2] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 0] currently have 0 availability(s).
+[GRID 0] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 3] currently have 0 availability(s).
+[GRID 3] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 5] currently have 0 availability(s).
+[GRID 5] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 2] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 1] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 5] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 0] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 4] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+[GRID 3] CURRENTLY LOW ||| no nearest available nodes (including neighbor of neighbors).
+
+
+ITERATION: 10 
+
+[GRID 1] currently have 0 availability(s).
+[GRID 1] CURRENTLY LOW ||| nearest available node: 4.
+[GRID 5] currently have 1 availability(s).
+[GRID 3] currently have 0 availability(s).
+[GRID 3] CURRENTLY LOW ||| nearest available node: 4.
+[GRID 4] currently have 1 availability(s).
+[GRID 0] currently have 0 availability(s).
+[GRID 0] CURRENTLY LOW ||| neighbors all unavailable.
+[GRID 2] currently have 1 availability(s).
+[GRID 0] CURRENTLY LOW ||| nearest available node (neighbor of neighbor): 4.
+[BASE] TERMINATE
+[GRID 0] TERMINATE
+[GRID 1] TERMINATE
+[GRID 3] TERMINATE
+[GRID 4] TERMINATE
+[GRID 2] TERMINATE
+[GRID 5] TERMINATE
+$ 

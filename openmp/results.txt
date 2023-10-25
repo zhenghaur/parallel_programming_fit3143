@@ -1,0 +1,45 @@
+$ gcc serial.c -o serial
+$ gcc parallel.c -o parallel -fopenmp
+$ ./serial
+
+Total unique words from read files: 71846
+Process time to read file: 20.039529
+
+Calculated bit array size for bloom filter: 447975
+Process time to create bit array of bloom filter: 0.002005
+
+Process time to insert all words into bloom filter: 0.006831
+
+Total words from reading query file: 91640
+Process time to read all words from query file: 0.517338
+
+Process time to query all words: 0.008057
+
+Total number of true positive: 87483 
+Total number of false positive: 535 
+Total number of false negative: 0 
+Total number of true negative: 3622 
+
+Process time of entire code: 20.577268
+$ ./parallel
+
+Total unique words from read files: 78865
+Process time to read file: 11.521958
+
+Calculated bit array size for bloom filter: 491740
+Process time to create bit array of bloom filter: 0.002202
+
+Process time to insert all words into bloom filter: 0.003052
+
+Total words from reading query file: 91640
+Process time to read all words from query file: 0.423115
+
+Process time to query all words: 0.001249
+
+Total number of true positive: 87047 
+Total number of false positive: 616 
+Total number of false negative: 436 
+Total number of true negative: 3541 
+
+Process time of entire code: 11.955138
+$ 
